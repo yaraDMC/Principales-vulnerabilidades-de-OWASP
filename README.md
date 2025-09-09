@@ -7,4 +7,4 @@ Este atacante identifica busca el punto debil en la introduccion de datos de los
 y para evitar este ataque se debe sanitizar las entradas de datos del formulario
 
 2️⃣
-la vulnerabilidad **Cross-Site Scrpiting (XSS)**
+la vulnerabilidad **Cross-Site Scrpiting (XSS)** el atacante inyecta codigo malicioso en campos de entrada de datos,busquedas y comentarios, donde el servidor procesara informacion y ahi es cuando se ejecutara el script malicioso y permitira a su cuenta sin necesidad de contraseña, robara cookies de incio de sesion de otros usuarios, 
